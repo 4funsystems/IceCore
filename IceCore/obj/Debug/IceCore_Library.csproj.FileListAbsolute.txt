@@ -1,0 +1,6 @@
+D:\GitHub\IceCore\IceCore_Library\bin\Debug\IceCore_Library.dll
+D:\GitHub\IceCore\IceCore_Library\bin\Debug\IceCore_Library.pdb
+D:\GitHub\IceCore\IceCore_Library\obj\Debug\IceCore_Library.csprojAssemblyReference.cache
+D:\GitHub\IceCore\IceCore_Library\obj\Debug\IceCore_Library.csproj.CoreCompileInputs.cache
+D:\GitHub\IceCore\IceCore_Library\obj\Debug\IceCore_Library.dll
+D:\GitHub\IceCore\IceCore_Library\obj\Debug\IceCore_Library.pdb
